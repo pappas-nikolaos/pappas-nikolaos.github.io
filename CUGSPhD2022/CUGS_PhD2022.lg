@@ -1,4 +1,3 @@
-htfcss: ptmbi8t  font-weight: bold;   font-style: italic;
 File: CUGS_PhD2022.html
 File: CUGS_PhD2022.css
 File: CUGS_PhD2022.tmp
@@ -149,4 +148,3 @@ Font("ptmr8t","","10","109")
 Font("ptmr8t","","10","172")
 Font("ptmr8t","","10","120")
 Font("ptmr8t","","10","144")
-Font("ptmbi8t","","10","144")
